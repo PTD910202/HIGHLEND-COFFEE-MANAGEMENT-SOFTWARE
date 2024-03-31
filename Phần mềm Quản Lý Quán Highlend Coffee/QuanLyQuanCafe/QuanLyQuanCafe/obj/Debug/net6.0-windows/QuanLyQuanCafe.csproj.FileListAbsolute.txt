@@ -1,0 +1,56 @@
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.exe
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.deps.json
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.runtimeconfig.json
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.pdb
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fLogin.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\refint\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.pdb
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\ref\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fTableManager.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAdmin.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Cafe\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.CopyComplete
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.exe
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.deps.json
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.runtimeconfig.json
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\QuanLyQuanCafe.pdb
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.AssemblyReference.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAccountProfile.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fAdmin.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fLogin.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.fTableManager.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.Properties.Resources.resources
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.GenerateResource.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.AssemblyInfoInputs.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.AssemblyInfo.cs
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.CoreCompileInputs.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.csproj.CopyComplete
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\refint\QuanLyQuanCafe.dll
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.pdb
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\QuanLyQuanCafe.genruntimeconfig.cache
+D:\ĐỒ ÁN\Đồ án cơ sở 2\Phần mềm Quản Lý Quán Highlend Coffee\QuanLyQuanCafe\QuanLyQuanCafe\obj\Debug\net6.0-windows\ref\QuanLyQuanCafe.dll
